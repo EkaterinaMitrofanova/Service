@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="photo">Photo</string>
+</resources>
